@@ -27,10 +27,13 @@ Use the dataset attached in the Dataset section below the project images then an
 
 A. Number of jobs reviewed: Amount of jobs reviewed over time.
    Your task: Calculate the number of jobs reviewed per hour per day for November 2020?
+   
 B. Throughput: It is the no. of events happening per second.
    Your task: Let’s say the above metric is called throughput. Calculate 7 day rolling average of throughput? For throughput, do you prefer daily metric or 7-day    rolling and why?
+   
 C. Percentage share of each language: Share of each language for different contents.
    Your task: Calculate the percentage share of each language in the last 30 days?
+   
 D. Duplicate rows: Rows that have the same value present in them.
    Your task: Let’s say you see some duplicate rows in the data. How will you display duplicates from the table?
 
@@ -50,11 +53,15 @@ Use the dataset attached in the Dataset section below the project images then an
 
 A. User Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service.
    Your task: Calculate the weekly user engagement?
+   
 B. User Growth: Amount of users growing over time for a product.
    Your task: Calculate the user growth for product?
+   
 C. Weekly Retention: Users getting retained weekly after signing-up for a product.
    Your task: Calculate the weekly retention of users-sign up cohort?
+   
 D. Weekly Engagement: To measure the activeness of a user. Measuring if the user finds quality in a product/service weekly.
    Your task: Calculate the weekly engagement per device?
+   
 E. Email Engagement: Users engaging with the email service.
    Your task: Calculate the email engagement metrics?
