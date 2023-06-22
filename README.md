@@ -1,6 +1,6 @@
-Operation Analytics and Investigating Metric Spike
+**Operation Analytics and Investigating Metric Spike**
    
-Description:
+**Description**:
 Operation Analytics is the analysis done for the complete end to end operations of a company. With the help of this, the company then finds the areas on which it must improve upon. You work closely with the ops team, support team, marketing team, etc and help them derive insights out of the data they collect.
 
 Being one of the most important parts of a company, this kind of analysis is further used to predict the overall growth or decline of a company’s fortune. It means better automation, better understanding between cross-functional teams, and more effective workflows.
@@ -11,7 +11,7 @@ You are working for a company like Microsoft designated as Data Analyst Lead and
 
 You are required to provide a detailed report for the below two operations mentioning the answers for the related questions:
 
-Case Study 1 (Job Data)
+**Case Study 1 (Job Data)**
 Below is the structure of the table with the definition of each column that you must work on:
 
 Table-1: job_data
@@ -38,7 +38,7 @@ D. Duplicate rows: Rows that have the same value present in them.
    Your task: Let’s say you see some duplicate rows in the data. How will you display duplicates from the table?
 
 
-Case Study 2 (Investigating metric spike)
+**Case Study 2 (Investigating metric spike)**
 The structure of the table with the definition of each column that you must work on is present in the project image
 
 Table-1: users
